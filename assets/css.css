@@ -4816,7 +4816,7 @@ img:is([sizes=auto i], [sizes^="auto," i]) {
                 width: 100%!important;
                 height: auto!important;
                 position: relative;
-                top: -15px
+                top: -7px
             }
 
             #footer-widget {
